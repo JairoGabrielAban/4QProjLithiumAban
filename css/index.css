@@ -5,7 +5,6 @@ CSS Styles For index.html
 ********************/
 
 body {
-    background-image: url('images/phil.jpg');
     background-size: cover;
     background-color: white; 
 }
